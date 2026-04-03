@@ -1,2 +1,2 @@
-# lina
-Máquina para crear productos usando trenzas de fibras naturales.
+# Lina
+> Máquina para crear productos usando trenzas de fibras naturales.
